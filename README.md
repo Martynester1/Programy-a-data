@@ -1,2 +1,1 @@
-# Programy-a-data
-Webové stránky
+# Programy a data - skola
